@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Programador en desarrollo Argentino<br><br>💻 Paso a paso aprendiendo más conocimientos 📚 a través de la universidad de 3 de Febrero con ayuda de Puente Innova<br><br>📝 roles en el ámbito: desarrollador... programador freelance... ayudar compañeros...<br>
+🎓 I am a young man of 23 years. I was born in Argentina, province of Buenos Aires. I am a programmer with 1 year of training at University National 3 the February.
 
 
 ## 🌐 Socials:
