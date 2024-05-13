@@ -1,32 +1,15 @@
-<h1 align="center">Hola 👋, soy Facundo Erramuspe Abad</h1>
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCT4g-HxVD7cxU6NI2irsyXA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@facuerramuspe"  /></a>
-<a href="https://www.tiktok.com/@facuerramuspe_" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@facuerramuspe_" /></a>
-<a href="www.linkedin.com/in/facundoerramuspe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="facundoerramuspe"/></a>
-<a href="https://www.instagram.com/facuerramuspe/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="facuerramuspe"/></a>
-<a href = "mailto:facundoerramuspe4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@facundoerramuspe4"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+# 💫 About Me:
+🎓 Programador en desarrollo Argentino<br><br>💻 Paso a paso aprendiendo más conocimientos 📚 a través de la universidad de 3 de Febrero con ayuda de Puente Innova<br><br>📝 roles en el ámbito: desarrollador... programador freelance... ayudar compañeros...<br>
 
-<p align="left">
-🎓 Programador en desarrollo Argentino
 
-💻 Paso a paso aprendiendo más conocimientos 📚 a través de la universidad de 3 de Febrero con ayuda de Puente Innova
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/facu_erramuspe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facu.erramuspeabad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/facundoerramuspe) 
 
-📝 roles en el ámbito: desarrollador... programador freelance... ayudar compañeros...
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Facuerramuspe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Facuerramuspe&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Facuerramuspe&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-📫 Contacto: **facundoerramuspe4@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,github," />
-  </a>
-</p>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
